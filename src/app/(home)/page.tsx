@@ -1,13 +1,8 @@
-import { Section01 } from "./_components";
+import { Section01 } from "./_sections";
 
 export default function HomePage() {
   return (
     <>
-      <Section01 />
-      <Section01 />
-      <Section01 />
-      <Section01 />
-      <Section01 />
       <Section01 />
     </>
   );

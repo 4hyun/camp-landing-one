@@ -1,1 +1,2 @@
-export * from "./Section01";
+export * from "./SectionArea";
+export * from "./GlowArea";
